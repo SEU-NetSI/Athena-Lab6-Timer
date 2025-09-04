@@ -116,10 +116,6 @@ int main(void)
 
   /* USER CODE END 2 */
 
-  //  实验2-2：完成print功能
-//  DEBUG_PRINTF("this is a test: %u \n", 85);
-//  DEBUG_PRINTF("this is a test: %s \n","hello world");
-//
 
 
   MX_FREERTOS_Init();
